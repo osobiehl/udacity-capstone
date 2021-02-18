@@ -1,0 +1,1 @@
+sudo docker run -v /home/osobiehl/Documents/Blockchain-Capstone/:/home/zokrates/code -ti zokrates/zokrates /bin/bash

@@ -1,0 +1,1 @@
+sudo ganache-cli -a 50 -m "claw bar live expect alcohol turkey dash refuse soda frequent hand erosion"
